@@ -41,7 +41,7 @@ a.navbar-brand {
   width: 30vw;
   margin: auto;
   margin-left: 58vw;
-  top: 7vw;
+  top: 14vw;
   line-height: 1.8vw;
   position: relative;
   z-index: 3;
@@ -58,7 +58,7 @@ a.navbar-brand {
 }
 
 .Ar1 {
-  width: 20rem;
+  width: 17rem;
   /* margin-left: 7vw; */
   margin-top: 15%;
   line-height: 20px;
@@ -101,7 +101,7 @@ a.navbar-brand {
 }
 
 .Ar2 {
-  width: 20rem;
+  width: 17rem;
   margin-top: 18%;
   /* margin-left: 3vw; */
   line-height: 20px;
@@ -142,7 +142,7 @@ a.navbar-brand {
 }
 
 .Ar3 {
-  width: 20rem;
+  width: 17rem;
   margin-top: 15%;
   /* margin-left: 7vw; */
   line-height: 20px;
@@ -186,7 +186,7 @@ a.navbar-brand {
 }
 
 .Ar4 {
-  width: 20rem;
+  width: 17rem;
   margin-top: 15%;
   /* margin-left: 4vw; */
   line-height: 20px;
